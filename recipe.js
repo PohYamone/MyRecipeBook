@@ -1,3 +1,3 @@
 function alertButton(){
-    alert("Yummy Receipe!");
+    alert("Yummy Recipe!");
 }

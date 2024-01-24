@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #af7031;
+    margin: 0; /* Remove default margin */
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #0e0e0e;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Add a black background color to the top navigation */
+.navbar ul {
+    list-style-type: none;
+    background-color: coral;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.navbar a {
+    color: aqua;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+}
+
+.navbar a:hover {
+    background-color: #333; /* Change the background color on hover */
+    color: white;
+}

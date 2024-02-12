@@ -1,16 +1,12 @@
-html {
-    scroll-behavior: smooth;
-}
+
 h1{
     color: #58684a;
 
 }
 
-body {
-    background-color: #99d2c5;
-    margin: 15px;
+body{
+    background-image: url("redPie.png");
 }
-
 
 header {
     position: fixed;
